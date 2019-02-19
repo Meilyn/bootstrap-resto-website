@@ -1,0 +1,25 @@
+a:hover { 
+	color: #f6c607 !important;
+}
+nav {
+	text-transform: uppercase; 
+}
+.jumbotron {
+	text-align: center;
+	height: 300px;
+	margin-bottom: 0;
+	background-image: url(../img/jumbotron-bg.jpg);
+	background-size: cover;
+	background-color: rgba(0,0,0,0.4);
+
+}
+.jumbotron img{
+	height: 100px;
+	background-color: rgba(255,255,255,0.4);
+}
+
+.jumbotron h1{
+	color: #fff;
+	text-transform: uppercase;
+
+}
