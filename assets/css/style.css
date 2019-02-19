@@ -37,4 +37,10 @@ nav {
 	color: #f6c607;
 	background-color: black;
 }
+.card-body {
+	text-align: center;
+	font-size: 30px;
+	color: #212121;
+	font-family: 'Great Vibes';
+}
 
