@@ -1,7 +1,7 @@
 # Projet : Premier site en Bootstrap
 
 
-![Meilyn Andrade GitHub](assets/img/32px.png)
+![Meilyn Andrade GitHub](assets/img/32px.png)(www.github.com/Meilyn)
 
 
 **Where**: BeCode [Junior Web Developper]
