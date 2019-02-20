@@ -19,8 +19,9 @@ nav {
 }
 
 .jumbotron h1{
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Great Vibes';
 	margin-top: 30px;
+	font-size: 60px;
 	width: auto;
 	color: #fff;
 
@@ -43,4 +44,138 @@ nav {
 	color: #212121;
 	font-family: 'Great Vibes';
 }
+.card-text1{
+	color: #212121;
+	font-family: 'Arial';
+	font-size: 20px;
+}
+#culinary {
+	background-image: url(../img/chocolate.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+#culinary h3{
+	color: #fff;
+	font-size: 50px;
+}
+#private {
+	background-image: url(../img/culinary.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}	
+#private h3{
+	color: #fff;
+	font-size: 50px;
+}
+#private span {
+	color: #f6c607;
+}
+#culinary span {
+	color: #f6c607;	
+}
+#Bar h3{
+	color: #fff;
+	font-size: 50px;
+}
+#Bar span {
+	color: #f6c607;
+}
+#Bar {
+	background-image: url(../img/cocktails.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+#news {
+	font-family: 'Great Vibes';
+	font-size: 40px;
+}
+footer {
+	margin-top: 30px;
+	padding : 10px;
+	background-color: #21201f;
+	color: white;
+	margin-bottom: 0px;
 
+}
+footer h3{
+	margin-bottom: 20px;
+	font-family: 'Great Vibes';
+	color: #f6c607;
+	font-size: 45px;
+}
+.fa-angrycreative{
+	font-size: 60px;
+	color: #ffffff;
+}
+.fa-angrycreative:hover{
+	font-size: 60px;
+	color: #f6c607;
+}
+.py-5{
+	padding-bottom: 0px !important;
+}
+.jumbotron-fluid {
+	background-image: url(../img/our-menu.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgba(0,0,0,0.4);
+}
+
+.container .text-center h2{
+	font-family: 'Greats Vibes';
+}
+
+.text-center {
+	font-family: 'Greats Vibes'!important;
+	margin-bottom: 20px;
+
+}
+
+.breakfast  {
+	background-image: url(../img/chocolate.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+
+}
+.card-text {
+	font-family: 'Great Vibes';
+	color: #fff;
+	font-size: 30px;
+	background-color: rgba(0,0,0,0.5);
+	
+}
+
+.bg-success {
+	background-image: url(../img/breakfast.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+.bg-light{
+	background-image: url(../img/entries.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+.bg-warning{
+	background-image: url(../img/tacos.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+.bg-danger {
+	background-image: url(../img/cocktails.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+.bg-info {
+	background-image: url(../img/desserts.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
