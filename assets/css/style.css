@@ -213,6 +213,10 @@ footer h3{
 	padding: 10px;
 	margin-top: -65px;
 	z-index: 10;
-	border: 2px solid #f6c607;
-	
+	border: 2px solid #f6c607;	
+}
+#perModal {
+	margin-bottom: -300px;
+	display: flex;
+	align-items: flex-end;
 }
