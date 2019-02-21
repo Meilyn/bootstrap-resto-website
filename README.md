@@ -1,7 +1,7 @@
 # Projet : Premier site en Bootstrap
 
 
-![Meilyn Andrade GitHub](assets/img/32px.png)(www.github.com/Meilyn)
+[Meilyn ANDRADE](www.github.com/Meilyn)
 
 
 **Where**: BeCode [Junior Web Developper]
@@ -62,3 +62,15 @@ Minimum 5 pages accessibles par une barre de navigation (navbar) présente sur t
 - Le client souhaite qu'à l'ouverture de la page d'accueil, il y ait un pop-up qui récupère le prénom du visiteur, puis affiche un "bonjour {nom du visiteur} !" avant le texte de présentation du restaurant.
 
 - Le client souhaite que dans la partie Restaurants, en plus de l'affichage des horaires et des jours d'ouverture, il y ait une mention interactive "Nous sommes le { date et heure }, le restaurant est donc { ouvert / fermé }" en fonction de l'heure et la date de consultation du site.
+
+### Maquette
+##Accueil
+![index](assets/img/index.png)
+##Menu
+![Menu](assets/img/carte.png)
+##Gallery
+![Galerry](assets/img/gallery.png)
+##Restaurants
+![Restaurants](assets/img/restaurans.png)
+##Contact
+![Contact](assets/img/contact.png)
