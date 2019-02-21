@@ -191,11 +191,12 @@ footer h3{
 	background-repeat: no-repeat;
 	/*background-size: cover;*/
 }
-#contact {
+#contact::before {
 	background-image: url(../img/contact-us.jpg);
+	filter: brightness(20%);
 }
 .form {
-	background-image: url(../img/contact-us.jpg);
+	background-color: #e4e4e4;
 	padding: 40px;
 	color: #fff;
 }
@@ -219,4 +220,7 @@ footer h3{
 	margin-bottom: -300px;
 	display: flex;
 	align-items: flex-end;
+}
+.gallery {
+	font-family: 'Great Vibes';
 }
