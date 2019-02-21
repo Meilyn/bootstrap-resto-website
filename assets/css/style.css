@@ -202,3 +202,17 @@ footer h3{
 .glyphicon{
 	margin-top: 30px;
 }
+.blockquote-footer{
+	margin-top: 15px;
+}
+.block{
+	background-color: black;
+	font-family: 'Great Vibes';
+	color: #fff;
+	width: 170px;
+	padding: 10px;
+	margin-top: -65px;
+	z-index: 10;
+	border: 2px solid #f6c607;
+	
+}
