@@ -64,13 +64,13 @@ Minimum 5 pages accessibles par une barre de navigation (navbar) présente sur t
 - Le client souhaite que dans la partie Restaurants, en plus de l'affichage des horaires et des jours d'ouverture, il y ait une mention interactive "Nous sommes le { date et heure }, le restaurant est donc { ouvert / fermé }" en fonction de l'heure et la date de consultation du site.
 
 ### Maquette
-##Accueil
+## Accueil
 ![index](assets/img/index.png)
-##Menu
+## Menu
 ![Menu](assets/img/carte.png)
-##Gallery
+## Gallery
 ![Galerry](assets/img/gallery.png)
-##Restaurants
+## Restaurants
 ![Restaurants](assets/img/restaurans.png)
-##Contact
+## Contact
 ![Contact](assets/img/contact.png)
