@@ -93,12 +93,13 @@ nav {
 	font-size: 40px;
 }
 footer {
-	margin-top: 30px;
-	padding : 10px;
-	background-color: #21201f;
+	margin-top: 60px;
 	color: white;
 	margin-bottom: 0px;
 
+}
+.page-footer{
+	height: 300px;
 }
 footer h3{
 	margin-bottom: 20px;
@@ -178,4 +179,26 @@ footer h3{
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 350px;
+}
+.exampleInputEmail1{
+	width: 20px;
+}
+#carte {
+	font-family: 'Roboto';
+}
+#carte1 {
+	background-image: url(../img/restaurants.jpg);
+	background-repeat: no-repeat;
+	/*background-size: cover;*/
+}
+#contact {
+	background-image: url(../img/contact-us.jpg);
+}
+.form {
+	background-image: url(../img/contact-us.jpg);
+	padding: 40px;
+	color: #fff;
+}
+.glyphicon{
+	margin-top: 30px;
 }
