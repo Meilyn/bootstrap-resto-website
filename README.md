@@ -65,12 +65,12 @@ Minimum 5 pages accessibles par une barre de navigation (navbar) présente sur t
 
 ### Maquette
 ## Accueil
-![index](assets/img/index.png)
+![index](assets/img/home.png)
 ## Menu
-![Menu](assets/img/carte.png)
+![Menu](assets/img/menu.png)
 ## Gallery
 ![Galerry](assets/img/gallery.png)
 ## Restaurants
-![Restaurants](assets/img/restaurans.png)
+![Restaurants](assets/img/restaurants.png)
 ## Contact
 ![Contact](assets/img/contact.png)
