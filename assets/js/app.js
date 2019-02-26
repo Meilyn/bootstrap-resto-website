@@ -16,6 +16,41 @@ if ('serviceWorker' in navigator) {
   });
 }
 // register service worker - END
+//NAME
+function name(){
+    if(!sessionStorage.getItem('user_name')) {
+        populateStorage();
+    } else {
+        if(sessionStorage.getItem('user_name')=="inconnu(e)"){
+            rePopulateStorage();
+        }
+        setName();
+    }
+
+    function populateStorage (){
+        var name=prompt("Your name please?");
+        if(name==="" || name===null){
+            name="inconnu(e)";
+        }
+        sessionStorage.setItem('user_name', name);
+        setName();
+    }
+
+    function rePopulateStorage(){
+        var name=prompt("Allez, dites-nous au moins un nom de fantaisie ?");
+        if(name==="" || name===null){
+            name="étranger(e)";
+        }
+        sessionStorage.setItem('user_name', name);
+        setName();
+    }
+
+    function setName (){
+        var user_name=sessionStorage.getItem('user_name');
+        document.getElementById("name").innerHTML="Hola "+user_name+" !";
+    }
+}
+
 
 
 
