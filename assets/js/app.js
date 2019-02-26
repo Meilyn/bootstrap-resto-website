@@ -47,7 +47,7 @@ function name(){
 
     function setName (){
         var user_name=sessionStorage.getItem('user_name');
-        document.getElementById("name").innerHTML="Hola "+user_name+" !";
+        document.getElementById("name").innerHTML="Welcome to our restaurant "+user_name+" !";
     }
 }
 
