@@ -3,15 +3,13 @@ this.addEventListener('install', function(event) {
     caches.open('v2').then(function(cache) {
       return cache.addAll([
         '/bootstrap-resto-website/',
-        '/bootstrap-resto-website/offline/acceuil_offline.html',
+        '/bootstrap-resto-website/offline/offline.html',
         '/bootstrap-resto-website/index.html',
         '/bootstrap-resto-website/carte.html',
         '/bootstrap-resto-website/gallery.html',
         '/bootstrap-resto-website/restaurants.html',
         '/bootstrap-resto-website/contact.html',
         '/bootstrap-resto-website/assets/img/nointernet.png',
-        '/bootstrap-resto-website/assets/img/gallery/' 
-        
       ]);
     })
   );
