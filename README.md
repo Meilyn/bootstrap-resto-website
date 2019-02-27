@@ -1,8 +1,10 @@
 # Projet : Premier site en Bootstrap
 
 
-[Meilyn ANDRADE](www.github.com/Meilyn)
 
+**GithubPage** : [The Restaurant](https://meilyn.github.io/bootstrap-resto-website/)
+
+[**Meilyn ANDRADE**](https://meilyn.github.io/)
 
 **Where**: BeCode [Junior Web Developper]
 
@@ -12,8 +14,14 @@
 
 **Status**: In progress
 
-**GithubPage** : [The Restaurant](https://meilyn.github.io/bootstrap-resto-website/)
 
+## Technologies Utilisées pour cet projet
+
+* HTML & CSS
+* Bootstrap [Framework]
+* Javascript
+* PWA (Progressive Web Application)
+* Service Worker
 
 ## Cahier des charges
 
@@ -62,6 +70,11 @@ Minimum 5 pages accessibles par une barre de navigation (navbar) présente sur t
 - Le client souhaite qu'à l'ouverture de la page d'accueil, il y ait un pop-up qui récupère le prénom du visiteur, puis affiche un "bonjour {nom du visiteur} !" avant le texte de présentation du restaurant.
 
 - Le client souhaite que dans la partie Restaurants, en plus de l'affichage des horaires et des jours d'ouverture, il y ait une mention interactive "Nous sommes le { date et heure }, le restaurant est donc { ouvert / fermé }" en fonction de l'heure et la date de consultation du site.
+
+## Difficultés 
+Le temps! Le temps! C'était la prémier fois que je me consacré 4 jours à travailler avec cette framework. J'étais un peu perdue au début. J'ai recontre des difficultes quand je sens que je vais très vite et que je connais pas la technologie (I'm afraid). Mais, je suis persistante et j'arrive a finir.
+
+La PWA m'as mit du temps a comphrendre. Merci @Joseph_ismail pour tes explications 
 
 ### Maquette
 ## Accueil

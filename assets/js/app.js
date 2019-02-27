@@ -1,4 +1,4 @@
-// register service worker - BEGINNING
+// register service worker - BEGINNING By(Remerciments to @Joseph Ismail) 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/bootstrap-resto-website/sw.js', { scope: '/bootstrap-resto-website/' }).then(function(reg) {
 
@@ -52,8 +52,6 @@ function name(){
 }
 
 
-
-
     
 //Opening Hours
     var d = new Date();
@@ -62,10 +60,10 @@ function name(){
 
      
     if (h >= 9 && h <=17) {
-    	if (day === 0 && day === 6) {
+    	if (day === 0 ||  day === 6) {
     	document.getElementById('heure').innerHTML = "Sorry! We're close";
     }
-    else if (h >= 9 && h <=17){
+    else {
     	document.getElementById('heure').innerHTML = "Hi! we're open";
     }
     }
