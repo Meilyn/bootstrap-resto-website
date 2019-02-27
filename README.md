@@ -72,7 +72,7 @@ Minimum 5 pages accessibles par une barre de navigation (navbar) présente sur t
 - Le client souhaite que dans la partie Restaurants, en plus de l'affichage des horaires et des jours d'ouverture, il y ait une mention interactive "Nous sommes le { date et heure }, le restaurant est donc { ouvert / fermé }" en fonction de l'heure et la date de consultation du site.
 
 ## Difficultés 
-Le temps! Le temps! C'était la prémier fois que je me consacré 4 jours à travailler avec cette framework. J'étais un peu perdue au début. J'ai recontre des difficultes quand je sens que je vais très vite et que je connais pas la technologie (I'm afraid). Mais, je suis persistante et j'arrive a finir.
+Le temps! Le temps! C'était la prémier fois que je me consacré 4 jours à travailler avec cette framework. J'étais un peu perdue au début. J'ai recontre des difficultes quand je sens que je vais très vite et que je connais pas la technologie (I'm afraid). Mais, je suis persistante et j'arrivée à finir.
 
 La PWA m'as mit du temps a comphrendre. Merci @Joseph_ismail pour tes explications 
 
