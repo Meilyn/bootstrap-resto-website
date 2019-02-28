@@ -58,15 +58,14 @@ function name(){
     var h = d.getHours();
     var day =d.getDay();
 
-     
     if (h >= 9 && h <=17) {
-    	if (day === 0 ||  day === 6) {
-    	document.getElementById('heure').innerHTML = "Sorry! We're close";
+    	
+    	document.getElementById('heure').innerHTML = "SHi! we're open";
     }
     else {
-    	document.getElementById('heure').innerHTML = "Hi! we're open";
+    	document.getElementById('heure').innerHTML = "Sorry! We're close";
     }
-    }
+    
    
 
 // End opening hours    
