@@ -59,8 +59,7 @@ function name(){
     var day =d.getDay();
 
     if (h >= 9 && h <=17) {
-    	
-    	document.getElementById('heure').innerHTML = "SHi! we're open";
+    	document.getElementById('heure').innerHTML = "Hi! we're open";
     }
     else {
     	document.getElementById('heure').innerHTML = "Sorry! We're close";
@@ -68,11 +67,5 @@ function name(){
     
    
 
-// End opening hours    
-
-// Onload Script
-// var name = prompt('What is your name?');
-
-// function name(){
 
 

@@ -1,7 +1,8 @@
-a:hover { 
-	color: #f6c607 !important;
+a:hover, a:active{ 
+	color: #f6c607 !important ;
 	font-weight: bold;
 }
+
 nav {
 	text-transform: uppercase; 
 }
@@ -31,19 +32,15 @@ nav {
 	color: #fff;
 	padding: 10px;
 }
-.carousel-inner img{
-	width: 100%;
-	height: 100%;
-}
+
 .jumbotron span{
 	color: #f6c607;
 	background-color: black;
 }
 .card-body {
 	text-align: center;
-	font-size: 30px;
+	font-size: 20px!important;
 	color: #212121;
-	font-family: 'Great Vibes';
 }
 .card-text1{
 	color: #212121;
@@ -58,7 +55,7 @@ nav {
 }
 #culinary h3{
 	color: #fff;
-	font-size: 50px;
+	font-size: 25px;
 }
 #private {
 	background-image: url(../img/culinary.jpg);
@@ -68,7 +65,7 @@ nav {
 }	
 #private h3{
 	color: #fff;
-	font-size: 50px;
+	font-size: 25px;
 }
 #private span {
 	color: #f6c607;
@@ -78,7 +75,7 @@ nav {
 }
 #Bar h3{
 	color: #fff;
-	font-size: 50px;
+	font-size: 25px;
 }
 #Bar span {
 	color: #f6c607;
@@ -144,9 +141,9 @@ footer h3{
 
 }
 .card-text {
-	font-family: 'Great Vibes';
+	font-family: 'Roboto';
 	color: #fff;
-	font-size: 30px;
+	font-size: 20px;
 	background-color: rgba(0,0,0,0.5);
 	
 }
@@ -185,7 +182,7 @@ footer h3{
 	width: 20px;
 }
 #carte {
-	font-family: 'Roboto';
+	font-family: 'Great Vibes';
 }
 #carte1 {
 	background-image: url(../img/restaurants.jpg);
@@ -222,9 +219,10 @@ footer h3{
 	display: flex;
 	align-items: flex-end;
 }
-#heure{
-	font-family: 'Great Vibes';
-	color: #2b2b2a;
+#heure {
+	font-family: 'Great Vibes'!important;
 }
-
-
+#Discover {
+	font-family: 'Great Vibes'!important;
+	/*font-size: 30px;*/
+}
