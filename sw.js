@@ -14,7 +14,6 @@ this.addEventListener('install', function(event) {
     })
   );
 });
-
 this.addEventListener('fetch', function(event) {
   event.respondWith(caches.match(event.request).then(function(response) {
     // caches.match() always resolves
@@ -27,7 +26,6 @@ this.addEventListener('fetch', function(event) {
         // we need to save clone to put one copy in cache
         // and serve second one
         let responseClone = response.clone();
-        
         caches.open('v2').then(function (cache) {
           cache.put(event.request, responseClone);
         });
