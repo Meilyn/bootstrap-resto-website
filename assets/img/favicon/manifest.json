@@ -41,9 +41,9 @@
    "type": "image\/png",
    "density": "4.0"
   }
-    {
+  {
    "src": "\/bootstrap-resto-website\/assets\/img\/favicon\/android-icon-192x192.png",
-   "sizes": "192x192",
+   "sizes": "512x512",
    "type": "image\/png",
    "density": "5.0"
   }
